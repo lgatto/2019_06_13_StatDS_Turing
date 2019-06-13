@@ -6,4 +6,6 @@
 - 09:40 – 17:00
 
 [Slides](https://github.com/lgatto/2019_06_13_StatDS_Turing/blob/master/slides.pdf)
-available under a CC-BY SA license.
+(http://bit.ly/20190613Turing) available under a CC-BY SA license.
+
+
